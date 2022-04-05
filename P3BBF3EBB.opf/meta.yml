@@ -1,0 +1,31 @@
+id: P3BBF3EBB
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1KG5006
+  instance_id: http://purl.bdrc.io/resource/IE1KG5006
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - ཚེ་རྩིས་འབྲས་བུ་བློ་གསར་དགའ་སྐྱེད།
+  alt_title:
+    en-x-mixed:
+    - Tshe rtsis ʼbras bu blo gsar dgaʼ skyed /dpe sgrig pa, La-stod-śel-dkar Lha-dbaṅ-tshe-riṅ.
+  author: None
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    5b18a2a0dec549c5b7cb94bd3fb9466d:
+      title: པོད ༡་ཚེ་རྩིས་འབྲས་བུ་བློ་གསར་དགའ་སྐྱེད
+      volume_number: 1
+      base_file: UT1KG5006_I1KG5082_0000.txt
+      reference: http://purl.bdrc.io/resource/VL8EC408FD847ED914
+      image_group: I1KG5082
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/W1KG5006
+  - http://purl.bdrc.io/resource/MW1KG5006
+  ocr_software: Namsel
+created_at: '2021-12-22T10:47:07.409648'
+last_modified_at: '2021-12-22T10:47:07.409654'
